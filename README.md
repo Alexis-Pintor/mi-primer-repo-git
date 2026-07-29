@@ -6,3 +6,6 @@ Esto es una práctica de Git y GitHub.
 - Entender cómo funciona Git
 - Practicar commits y push
 - Ver mi código en GitHub
+
+## Autor
+Alexis Pintor - 2026
